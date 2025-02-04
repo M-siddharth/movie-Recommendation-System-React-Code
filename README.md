@@ -1,7 +1,7 @@
 # movie-Recommendation-System-React-Code
 # Stream Saga
 
-## 🎬 Overview
+## 🎬 Overview 
 Stream Saga is a movie recommendation system that fetches data from **The Movie Database (TMDB) API**. Users can browse popular movies, search for specific titles, add movies to their wishlist, and view detailed information about each movie.
 
 ## 🚀 Features
